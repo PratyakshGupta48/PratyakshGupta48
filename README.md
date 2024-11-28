@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pratyaksh Gupta</h1>
-<h3 align="center">Driven React Native developer with 3+ years of experience seeking challenging opportunities in app development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratyakshgupta48&label=Profile%20views&color=0e75b6&style=flat" alt="pratyakshgupta48" /> </p>
 
